@@ -1,0 +1,123 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+
+.title {
+    text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Playfair Display', c;
+    background-color: #ffffff;
+    text-shadow: 2px 2px #000000;
+    font-size: 70px;
+    color: #616189;
+    border-style: outset;
+    border: 5px #454554 solid;
+    border-style: outset;
+}
+
+.red {
+    text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lora', c;
+
+    text-shadow: 2px 2px #000000;
+    font-size: 70px;
+    color: #616eae;
+}
+
+.dog {
+    text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lora', c;
+
+    text-shadow: 2px 2px #000000;
+    font-size: 70px;
+    color: #616eae;
+}
+
+.pink {
+    text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lora', c;
+
+    text-shadow: 2px 2px #000000;
+    font-size: 70px;
+    color: #616eae;
+}
+
+.blue {
+    text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lora', c;
+
+    text-shadow: 2px 2px #000000;
+    font-size: 70px;
+    color: #616eae;
+}
+
+.yell {
+    text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lora', c;
+
+    text-shadow: 2px 2px #000000;
+    font-size: 70px;
+    color: #616eae;
+}
+
+body {
+    color: #292929;
+}
+
+img {
+    width: 600px;
+    border: 5px solid #000000;
+    justify-content: center;
+    text-align: center;
+}
+
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+
+
+.story-opening {
+    display: block;
+}
+
+
+
+.buttons {
+    display: block;
+}
+
+
+
+.option-one-screen {
+    display: none;
+}
+
+
+
+.option-two-screen {
+    display: none;
+}
+
+
+
+.option-one-end {
+    display: none;
+}
+
+
+
+.option-two-end {
+    display: none;
+}
